@@ -1,0 +1,29 @@
+Question: What socket types do we specify when initializing a UDP socket?
+SOCK_DGRAM
+
+Question: What is a potential risk when sending large amounts of data over TCP sockets in non-blocking mode?
+All the data may not be transferred if the socket’s write buffer gets full
+
+Question: Which of these libraries can be used to load RSS feeds into a Python application?
+feedparser
+
+Question: Which socket types do we specify when initializing a TCP socket?
+SOCK_STREAM
+
+Question: You have a TCP socket instance called sock. Which of these function calls can be used to receive 20KB of data from the other end of the socket connection?
+sock.recv(20480)
+
+Question: Which TWO of these are valid ways to set a Python TCP socket (represented by the variable sock) to use blocking mode?
+sock.setblocking(True)
+Initialize the TCP socket. It will use blocking mode by default
+
+Question: Which of these function calls will return a file object pointing to a file opened in read-only mode in the binary format?
+open(‘<file_path>’, ‘rb’)
+
+Question: What is returned when we invoke a socket object’s send() function?
+A number representing the number of bytes sent on the socket
+
+Question: Which TWO of the following objects are returned when invoking a socket object’s accept function?
+The address of the host at the other end of the socket
+A socket object which can be used to send and receive data
+

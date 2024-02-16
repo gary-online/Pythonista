@@ -1,0 +1,26 @@
+You are creating a 3D bar chart and would like to use the titles that are already entered into your data. Which of the following statements would allow this?
+chart_3d.add_data(data, titles_from_data=True)
+
+Assume our dataset has a large number of date values, and including them all in the chart will make for a confusing chart. Which of the following would ensure that only every 15th tick is displayed?
+chart.x_axis.tickLblSkip = 15
+
+The x-axis in a chart represents months. How can we specify that we would only like the first month of each year to be shown on the horizontal chart axis?
+chart.x_axis.tickLblSkip = 12
+
+Which of the following libraries will we need to import to work with line charts in Python?
+openpyxl
+
+Your spreadsheet contains data with the opening, high, low, and closing information for a stock for a specific time period. Which type of Excel visualization would be best for this use-case?
+OHLC chart
+
+You have a horizontal bar chart object, and would like to add a new vertical bar chart with the same data. How would you do so, being careful to ensure that the original chart is not modified or disturbed in any way?
+Invoke the deepcopy.deepcopy method on the original chart object, then modify the copy
+
+Your spreadsheet contains data with the revenues, profits and market share of companies. How would you best represent all three data series in a single visualization that also compares revenue and market share?
+A bubble chart where each bubble is proportionate to market share
+
+Which of the following Excel charts is the most suitable for visualizing trends over time?
+Line chart
+
+How would you access and customize the appearance of the second individual data series within a multi-line chart?
+multi_line_chart.series[1]

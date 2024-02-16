@@ -1,0 +1,45 @@
+Which of the following best describes the steps needed to create a double-sided border around a cell?
+Create a side object to hold a double-line side, then create a border object using that side object, finally assign the border object to the cell’s border property
+
+Which of the following statements about the $ operator and cell references is accurate?
+The $ operator can be independently applied to each row and each column in each cell referenced in a formula
+
+An Excel workbook contains the formula “=A2 * B$2” in cell location C2. This formula is copied to cell D4. What formula will be contained in cell D4?
+“=B4 * C$2”
+
+Which of the following Python libraries offers the closest equivalent to the pivot table functionality in Excel?
+Pandas
+
+Which of the following is used as the opening character of a cell that contains a formula (and not a value) ?
+=
+
+Which of the following statements about Excel formulae and openpyxl is true?
+openpyxl has built-in support for a specific list of worksheet functions for use in formulae
+
+Which of the following techniques would we use to insert up and down arrows for a column containing sales performance data ?
+Custom Style
+
+A spreadsheet contains data with three rows – country, year, and population. Which Excel technique will help us quickly find the lowest population for each country for any year?
+Pivoting the data with aggregate function set to min
+
+Which of the following statements about named ranges in Excel is accurate?
+A group of contiguous cells can collectively be assigned a name to form a named range
+
+What is the role of the last argument specified to the common function VLOOKUP?
+Indicates whether exact match is needed or not. Usually set to FALSE to specify an exact match.
+
+Which of the following is an efficient way to alter the appearance of a cell based on the value contained within it?
+Conditional formatting
+
+A pandas data frame contains rows that are uniquely identified using a combination of country and year. Which of the following statements about this data frame is accurate?
+This dataframe has a multi-level index
+
+How would you efficiently add an image to an Excel spreadsheet?
+Use openpyxl to open the image file and insert it into the workbook using the add_image method of a worksheet
+
+Which of the following conditional formatting techniques would we use to highlight a row based on whether a rule is satisfied or not?
+Differential style with a formula-based rule
+
+Which of the following is an efficient way of combining several complex formatting operations that need to be applied to a set of cells?
+Custom styles
+

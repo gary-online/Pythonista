@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4c1678c5-4b44-4060-abed-ee22c03ed438" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Pythonista.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Apprentice/Apprentice.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Apprentice/Data Structures/LinkedList.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Apprentice/Data Structures/Queue Notes.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Apprentice/Data Structures/Stack.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Apprentice/Data Structures/Time Complexity.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Apprentice/Implementing Sorting Algorithms/Coding the Quicksort Algorithm.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Apprentice/Implementing Sorting Algorithms/Coding the Shell Sort Algorithm.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Apprentice/Implementing Sorting Algorithms/Sorting.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Apprentice/Implementing Sorting Algorithms/The Bubble Sort Implementation.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Apprentice/Implementing Sorting Algorithms/The Insertion Sort Implementation.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Apprentice/Implementing Sorting Algorithms/The Merge Sort.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Apprentice/Implementing Sorting Algorithms/The Selection Sort Implementation.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Apprentice/Implementing Trees &amp; Graphs/Binary Search.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Apprentice/Implementing Trees &amp; Graphs/Binary Tree.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Apprentice/Implementing Trees &amp; Graphs/Graph Traversal.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Apprentice/Implementing Trees &amp; Graphs/Graph.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Apprentice/Implementing Trees &amp; Graphs/Topological Sort.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Apprentice/Implementing Trees &amp; Graphs/graph.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Apprentice/Implementing Trees &amp; Graphs/notes/Binary Search - notes.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Apprentice/Implementing Trees &amp; Graphs/notes/Binary Tree - notes.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Apprentice/Implementing Trees &amp; Graphs/notes/Graph - notes.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Apprentice/Implementing Trees &amp; Graphs/notes/Graph Traversal - notes.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Apprentice/Implementing Trees &amp; Graphs/notes/Test Review.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Apprentice/Implementing Trees &amp; Graphs/notes/graph.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Apprentice/Searching Trees &amp; Graphs/The Binary Search.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Apprentice/Searching Trees &amp; Graphs/The Graph.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Apprentice/Searching Trees &amp; Graphs/The Topological Sort.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Apprentice/Sorting Algorithms/The Bubble Sort.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Apprentice/Sorting Algorithms/The Insertion Sort.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Apprentice/Sorting Algorithms/The Merge Sort.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Apprentice/Sorting Algorithms/The Quicksort.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Apprentice/Sorting Algorithms/The Selection Sort.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Apprentice/Sorting Algorithms/The Shell Sort.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Journeyman/Journeyman.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Journeyman/Multiprocessing in Python_ An Introduction to Python Queues/CommunicationBetweenProceeses.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Journeyman/Multiprocessing in Python_ An Introduction to Python Queues/Multiprocessing.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Journeyman/Multiprocessing in Python_ An Introduction to Python Queues/MultithreadingVsMultiprocessing.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Journeyman/Multiprocessing in Python_ An Introduction to Python Queues/QueueObjectsAndThreads.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Journeyman/Multiprocessing in Python_ An Introduction to Python Queues/SharingDataBetweenProcesses.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Journeyman/Multiprocessing in Python_ An Introduction to Python Queues/SynchronizationBetweenProcesses.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Journeyman/Multiprocessing in Python_ An Introduction to Python Queues/Test.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Journeyman/Python Concurrent Programming_ Asynchronous Executions in Python/ProcessPooling.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Journeyman/Python Concurrent Programming_ Asynchronous Executions in Python/Test.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Journeyman/Python Concurrent Programming_ Asynchronous Executions in Python/asyncioModule.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Journeyman/Python Concurrent Programming_ Asynchronous Executions in Python/asyncio_event.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Journeyman/Python Concurrent Programming_ Asynchronous Executions in Python/asyncio_gather.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Journeyman/Python Concurrent Programming_ Asynchronous Executions in Python/asyncio_main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Journeyman/Python Concurrent Programming_ Asynchronous Executions in Python/asyncio_run.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Journeyman/Python Concurrent Programming_ Asynchronous Executions in Python/asyncio_task.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Journeyman/Python Concurrent Programming_ Asynchronous Executions in Python/concurrent.futuresModule.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Journeyman/Python Concurrent Programming_ Introduction to Concurrent Programming/Test.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Journeyman/Python Concurrent Programming_ Multithreading in Python/Multithreading in Python Quiz.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Journeyman/Python Concurrent Programming_ Multithreading in Python/Python Concurrent Programming_ Multithreading in Python.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Journeyman/Python Concurrent Programming_ Multithreading in Python/Python Concurrent Programming_ Thread Synchronization.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Journeyman/Python Concurrent Programming_ Multithreading in Python/depreciated lecture files/IntroToThreads.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Journeyman/Python Concurrent Programming_ Multithreading in Python/depreciated lecture files/ThreadSynchronisation.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Journeyman/Python Requests_ HTTP Requests with Python/Percipio Notes/EncodingAndBinaryResponse.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Journeyman/Python Requests_ HTTP Requests with Python/Percipio Notes/Exceptions.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Journeyman/Python Requests_ HTTP Requests with Python/Percipio Notes/GET.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Journeyman/Python Requests_ HTTP Requests with Python/Percipio Notes/GetRequestWithParameters.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Journeyman/Python Requests_ HTTP Requests with Python/Percipio Notes/HEADRequest.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Journeyman/Python Requests_ HTTP Requests with Python/Percipio Notes/Headers.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Journeyman/Python Requests_ HTTP Requests with Python/Percipio Notes/POSTRequest-MultipleParameters.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Journeyman/Python Requests_ HTTP Requests with Python/Percipio Notes/POSTRequest.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Journeyman/Python Requests_ HTTP Requests with Python/Percipio Notes/PUT-OPTION-DELETE.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Journeyman/Python Requests_ HTTP Requests with Python/Percipio Notes/RedirectsAndTimeout.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Journeyman/Python Requests_ HTTP Requests with Python/Percipio Notes/ResponseFormats.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Journeyman/Python Requests_ HTTP Requests with Python/Percipio Notes/ResponseStatusCodes.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Journeyman/Python Requests_ HTTP Requests with Python/Requests/EncodingAndBinaryResponse/EncodingAndBinaryResponse.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Journeyman/Python Requests_ HTTP Requests with Python/Requests/EncodingAndBinaryResponse/aurora.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Journeyman/Python Requests_ HTTP Requests with Python/Requests/Exceptions/Exceptions.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Journeyman/Python Requests_ HTTP Requests with Python/Requests/GET/GET.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Journeyman/Python Requests_ HTTP Requests with Python/Requests/GET/GETRequestWithParameters.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Journeyman/Python Requests_ HTTP Requests with Python/Requests/HEAD/HEADRequest.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Journeyman/Python Requests_ HTTP Requests with Python/Requests/Headers/Headers.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Journeyman/Python Requests_ HTTP Requests with Python/Requests/POST/POSTRequest-MultipleParameters.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Journeyman/Python Requests_ HTTP Requests with Python/Requests/POST/POSTRequest.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Journeyman/Python Requests_ HTTP Requests with Python/Requests/POST/skillsoft.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Journeyman/Python Requests_ HTTP Requests with Python/Requests/POST/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Journeyman/Python Requests_ HTTP Requests with Python/Requests/PUT-OPTION-DELETE/PUT-OPTION-DELETE.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Journeyman/Python Requests_ HTTP Requests with Python/Requests/RedirectsAndTimeout/RedirectsAndTimeout.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Journeyman/Python Requests_ HTTP Requests with Python/Requests/ResponseFormats/ResponseFormats.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Journeyman/Python Requests_ HTTP Requests with Python/Requests/ResponseFormats/raw_file.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Journeyman/Python Requests_ HTTP Requests with Python/Requests/ResponseStatusCodes/ResponseStatusCodes.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Journeyman/Python Unit Testing_ Advanced Python Testing Using the unittest Framework/hello_world.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Journeyman/Python Unit Testing_ Advanced Python Testing Using the unittest Framework/src/helloworld.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Journeyman/Python Unit Testing_ Advanced Python Testing Using the unittest Framework/src/shape_area.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Journeyman/Python Unit Testing_ Advanced Python Testing Using the unittest Framework/student.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Journeyman/Python Unit Testing_ Advanced Python Testing Using the unittest Framework/test_student.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Journeyman/Python Unit Testing_ Advanced Python Testing Using the unittest Framework/test_student_setup.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Journeyman/Python Unit Testing_ Advanced Python Testing Using the unittest Framework/test_student_singlesetup.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Journeyman/Python Unit Testing_ Advanced Python Testing Using the unittest Framework/testsuite_add.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Journeyman/Python Unit Testing_ Advanced Python Testing Using the unittest Framework/testsuite_intro.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Journeyman/Python Unit Testing_ An Introduction to Python's unittest Framework/equality_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Journeyman/Python Unit Testing_ An Introduction to Python's unittest Framework/rectangle_perimeter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Journeyman/Python Unit Testing_ An Introduction to Python's unittest Framework/shape_area.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Journeyman/Python Unit Testing_ An Introduction to Python's unittest Framework/simple_testcase.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Journeyman/Python Unit Testing_ An Introduction to Python's unittest Framework/test_rectangle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Journeyman/Python Unit Testing_ An Introduction to Python's unittest Framework/test_shape_area.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Journeyman/Python Unit Testing_ An Introduction to Python's unittest Framework/test_triangle_area.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Journeyman/Python Unit Testing_ An Introduction to Python's unittest Framework/three_testcases_v1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Journeyman/Python Unit Testing_ An Introduction to Python's unittest Framework/three_testcases_v2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Journeyman/Python Unit Testing_ An Introduction to Python's unittest Framework/triangle_area.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Journeyman/Python Unit Testing_ An Introduction to Python's unittest Framework/truth_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Journeyman/Python Unit Testing_ Testing Python Code Using doctest/doctest/doctest/shape_area.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Journeyman/Python Unit Testing_ Testing Python Code Using doctest/doctest/doctest/shape_area_docstring_placement.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Journeyman/Python Unit Testing_ Testing Python Code Using doctest/doctest/doctest/test_docstring_unittest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Journeyman/Python Unit Testing_ Testing Python Code Using doctest/doctest/executable document/shape_area_mod.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Journeyman/Python Unit Testing_ Testing Python Code Using doctest/doctest/executable document/shape_area_readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Journeyman/Python Unit Testing_ Testing Python Code Using doctest/doctest/executable document/test_shape_area.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Journeyman/Python Unit Testing_ Testing Python Code Using doctest/doctest/objects/doctest_object.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Journeyman/Python Unit Testing_ Testing Python Code Using doctest/doctest/objects/doctest_tb.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Journeyman/Python Unit Testing_ Testing Python Code Using doctest/doctest/objects/doctest_whitespace.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Journeyman/Python Unit Testing_ Testing Python Code Using pytest/pytest/cal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Journeyman/Python Unit Testing_ Testing Python Code Using pytest/pytest/cal_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Journeyman/Python Unit Testing_ Testing Python Code Using pytest/pytest/conftest/append_file.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Journeyman/Python Unit Testing_ Testing Python Code Using pytest/pytest/conftest/conftest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Journeyman/Python Unit Testing_ Testing Python Code Using pytest/pytest/conftest/readonly_file.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Journeyman/Python Unit Testing_ Testing Python Code Using pytest/pytest/conftest/test_file_conftest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Journeyman/Python Unit Testing_ Testing Python Code Using pytest/pytest/fixtures/test_file.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Journeyman/Python Unit Testing_ Testing Python Code Using pytest/pytest/fixtures/test_file_fixture.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Journeyman/Python Unit Testing_ Testing Python Code Using pytest/pytest/fixtures/test_file_fixture_scope.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Journeyman/Python Unit Testing_ Testing Python Code Using pytest/pytest/test_addition.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Journeyman/Python Unit Testing_ Testing Python Code Using pytest/pytest/test_exceptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Journeyman/Python Unit Testing_ Testing Python Code Using pytest/pytest/test_multiple_simple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Journeyman/Python Unit Testing_ Testing Python Code Using pytest/pytest/test_parametrized_addition.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Journeyman/Python Unit Testing_ Testing Python Code Using pytest/pytest/test_simple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pythonista/Excel with Python_ Working with Excel Spreadsheets from Python/Constructing Data Visualizations/PlottingBarCharts.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pythonista/Excel with Python_ Working with Excel Spreadsheets from Python/Constructing Data Visualizations/PlottingBubbleCharts.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pythonista/Excel with Python_ Working with Excel Spreadsheets from Python/Constructing Data Visualizations/PlottingLineCharts.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pythonista/Excel with Python_ Working with Excel Spreadsheets from Python/Constructing Data Visualizations/PlottingStockCharts.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pythonista/Excel with Python_ Working with Excel Spreadsheets from Python/Constructing Data Visualizations/Test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pythonista/Excel with Python_ Working with Excel Spreadsheets from Python/Constructing Data Visualizations/datasets/NFLX.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pythonista/Excel with Python_ Working with Excel Spreadsheets from Python/Constructing Data Visualizations/datasets/oil_prices.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pythonista/Excel with Python_ Working with Excel Spreadsheets from Python/Constructing Data Visualizations/datasets/tech_stocks.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pythonista/Excel with Python_ Working with Excel Spreadsheets from Python/Manipulating Excel Spreadsheets Using openpyxl/100 Sales Records.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pythonista/Excel with Python_ Working with Excel Spreadsheets from Python/Manipulating Excel Spreadsheets Using openpyxl/FiltersAndSorts.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pythonista/Excel with Python_ Working with Excel Spreadsheets from Python/Manipulating Excel Spreadsheets Using openpyxl/FreezePanes.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pythonista/Excel with Python_ Working with Excel Spreadsheets from Python/Manipulating Excel Spreadsheets Using openpyxl/ReadingFromSpreadsheets.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pythonista/Excel with Python_ Working with Excel Spreadsheets from Python/Manipulating Excel Spreadsheets Using openpyxl/ResizingRowsAndColumns.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pythonista/Excel with Python_ Working with Excel Spreadsheets from Python/Manipulating Excel Spreadsheets Using openpyxl/Test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pythonista/Excel with Python_ Working with Excel Spreadsheets from Python/Manipulating Excel Spreadsheets Using openpyxl/WritingToSpreadsheets.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pythonista/Excel with Python_ Working with Excel Spreadsheets from Python/Manipulating Excel Spreadsheets Using openpyxl/datasets/company_revenue.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pythonista/Excel with Python_ Working with Excel Spreadsheets from Python/Manipulating Excel Spreadsheets Using openpyxl/datasets/zomato_reviews.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pythonista/Excel with Python_ Working with Excel Spreadsheets from Python/Manipulating Excel Spreadsheets Using openpyxl/workbooks/brand_new_workbook.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pythonista/Excel with Python_ Working with Excel Spreadsheets from Python/Manipulating Excel Spreadsheets Using openpyxl/workbooks/dimensions.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pythonista/Excel with Python_ Working with Excel Spreadsheets from Python/Manipulating Excel Spreadsheets Using openpyxl/workbooks/planets.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pythonista/Excel with Python_ Working with Excel Spreadsheets from Python/Manipulating Excel Spreadsheets Using openpyxl/workbooks/world_cup_winners.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pythonista/Excel with Python_ Working with Excel Spreadsheets from Python/Performing Advanced Operations/ApplyingFormulae.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pythonista/Excel with Python_ Working with Excel Spreadsheets from Python/Performing Advanced Operations/ConditionalFormatting.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pythonista/Excel with Python_ Working with Excel Spreadsheets from Python/Performing Advanced Operations/InsertingImages.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pythonista/Excel with Python_ Working with Excel Spreadsheets from Python/Performing Advanced Operations/NamedRange.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pythonista/Excel with Python_ Working with Excel Spreadsheets from Python/Performing Advanced Operations/PivotTablesAndPandas.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pythonista/Excel with Python_ Working with Excel Spreadsheets from Python/Performing Advanced Operations/StylingCells.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pythonista/Excel with Python_ Working with Excel Spreadsheets from Python/Performing Advanced Operations/Test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pythonista/Excel with Python_ Working with Excel Spreadsheets from Python/Performing Advanced Operations/datasets/products.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pythonista/Excel with Python_ Working with Excel Spreadsheets from Python/Performing Advanced Operations/datasets/python_logo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pythonista/Excel with Python_ Working with Excel Spreadsheets from Python/Performing Advanced Operations/datasets/sales_record.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pythonista/Excel with Python_ Working with Excel Spreadsheets from Python/Performing Advanced Operations/datasets/student_data.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pythonista/Excel with Python_ Working with Excel Spreadsheets from Python/Performing Advanced Operations/workbooks/formulae.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pythonista/Excel with Python_ Working with Excel Spreadsheets from Python/Performing Advanced Operations/workbooks/named_range.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pythonista/Excel with Python_ Working with Excel Spreadsheets from Python/Performing Advanced Operations/workbooks/sales_basic_conditional.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pythonista/Excel with Python_ Working with Excel Spreadsheets from Python/Performing Advanced Operations/workbooks/sales_iconset.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pythonista/Excel with Python_ Working with Excel Spreadsheets from Python/Performing Advanced Operations/workbooks/sales_pivot_tables.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pythonista/Excel with Python_ Working with Excel Spreadsheets from Python/Performing Advanced Operations/workbooks/styled.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pythonista/Excel with Python_ Working with Excel Spreadsheets from Python/Performing Advanced Operations/workbooks/zomato_databar.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pythonista/Principles of Good Design/SOLID Principles/S.O.L.I.D.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pythonista/Principles of Good Design/SOLID Principles/test.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pythonista/Principles of Good Design/Working with Behavioral Design Patterns/demo13-Strategy.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pythonista/Principles of Good Design/Working with Behavioral Design Patterns/demo14-ChainOfResponsibility.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pythonista/Principles of Good Design/Working with Behavioral Design Patterns/demo15-ObserverPattern.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pythonista/Principles of Good Design/Working with Behavioral Design Patterns/demo16-CommandPattern.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pythonista/Principles of Good Design/Working with Behavioral Design Patterns/demo17-Iterator.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pythonista/Principles of Good Design/Working with Behavioral Design Patterns/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pythonista/Principles of Good Design/Working with Creational Design Patterns/GlobalObjectPattern.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pythonista/Principles of Good Design/Working with Creational Design Patterns/Singleton.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pythonista/Principles of Good Design/Working with Creational Design Patterns/demo02-Singleton.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pythonista/Principles of Good Design/Working with Creational Design Patterns/demo03-GlobalObjectPattern.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pythonista/Principles of Good Design/Working with Creational Design Patterns/demo04-FactoryMethod.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pythonista/Principles of Good Design/Working with Creational Design Patterns/demo05-AbstractFactory.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pythonista/Principles of Good Design/Working with Creational Design Patterns/demo06-BuilderPattern.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pythonista/Principles of Good Design/Working with Creational Design Patterns/demo07-ObjectPooling.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pythonista/Principles of Good Design/Working with Creational Design Patterns/logger.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pythonista/Principles of Good Design/Working with Creational Design Patterns/movieserializer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pythonista/Principles of Good Design/Working with Creational Design Patterns/test.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pythonista/Principles of Good Design/Working with Structural Design Patterns/demo08-AdapterPattern.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pythonista/Principles of Good Design/Working with Structural Design Patterns/demo09-DecoratorPattern.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pythonista/Principles of Good Design/Working with Structural Design Patterns/demo10-FacadePattern.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pythonista/Principles of Good Design/Working with Structural Design Patterns/demo11-ProxyPattern.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pythonista/Principles of Good Design/Working with Structural Design Patterns/demo12-Flyweight.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pythonista/Principles of Good Design/Working with Structural Design Patterns/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pythonista/Pythonista.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pythonista/Socket Programming in Python/Test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pythonista/Socket Programming in Python/blocking_and_nonblockingmodes/client.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pythonista/Socket Programming in Python/blocking_and_nonblockingmodes/server.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pythonista/Socket Programming in Python/chat/client.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pythonista/Socket Programming in Python/chat/server.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pythonista/Socket Programming in Python/files_and_images/client.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pythonista/Socket Programming in Python/files_and_images/client_files/received_file.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pythonista/Socket Programming in Python/files_and_images/client_files/received_image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pythonista/Socket Programming in Python/files_and_images/server.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pythonista/Socket Programming in Python/files_and_images/server_files/gary_codes.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pythonista/Socket Programming in Python/files_and_images/server_files/meditations.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pythonista/Socket Programming in Python/files_and_images/server_files/profile_picture.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pythonista/Socket Programming in Python/pythonobjects/client.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pythonista/Socket Programming in Python/pythonobjects/product.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pythonista/Socket Programming in Python/pythonobjects/server.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pythonista/Socket Programming in Python/rss_feed/client.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pythonista/Socket Programming in Python/socketsintro/client.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pythonista/Socket Programming in Python/socketsintro/server.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pythonista/Socket Programming in Python/udp_sockets/client.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pythonista/Socket Programming in Python/udp_sockets/server.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pythonista/Socket Programming in Python/z_Percipio Notes/Advanced Topics/Chat Room/client.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pythonista/Socket Programming in Python/z_Percipio Notes/Advanced Topics/Chat Room/server.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pythonista/Socket Programming in Python/z_Percipio Notes/Advanced Topics/client.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pythonista/Socket Programming in Python/z_Percipio Notes/Advanced Topics/client_files/received_file.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pythonista/Socket Programming in Python/z_Percipio Notes/Advanced Topics/commands.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pythonista/Socket Programming in Python/z_Percipio Notes/Advanced Topics/server.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pythonista/Socket Programming in Python/z_Percipio Notes/Advanced Topics/server_files/meditations.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pythonista/Socket Programming in Python/z_Percipio Notes/Introduction/Sources/SendingPythonObjects-01/client.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pythonista/Socket Programming in Python/z_Percipio Notes/Introduction/Sources/SendingPythonObjects-01/product.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pythonista/Socket Programming in Python/z_Percipio Notes/Introduction/Sources/SendingPythonObjects-01/server.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pythonista/Socket Programming in Python/z_Percipio Notes/Introduction/Sources/SendingPythonObjects-02/client.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pythonista/Socket Programming in Python/z_Percipio Notes/Introduction/Sources/SendingPythonObjects-02/product.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pythonista/Socket Programming in Python/z_Percipio Notes/Introduction/Sources/SendingPythonObjects-02/server.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pythonista/Socket Programming in Python/z_Percipio Notes/Introduction/Sources/SendingPythonObjects-03/client.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pythonista/Socket Programming in Python/z_Percipio Notes/Introduction/Sources/SendingPythonObjects-03/product.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pythonista/Socket Programming in Python/z_Percipio Notes/Introduction/Sources/SendingPythonObjects-03/server.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pythonista/Socket Programming in Python/z_Percipio Notes/Introduction/Sources/SendingPythonObjects-04/client.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pythonista/Socket Programming in Python/z_Percipio Notes/Introduction/Sources/SendingPythonObjects-04/product.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pythonista/Socket Programming in Python/z_Percipio Notes/Introduction/Sources/SendingPythonObjects-04/server.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pythonista/Socket Programming in Python/z_Percipio Notes/Introduction/Sources/SendingPythonObjects-05/client.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pythonista/Socket Programming in Python/z_Percipio Notes/Introduction/Sources/SendingPythonObjects-05/product.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pythonista/Socket Programming in Python/z_Percipio Notes/Introduction/Sources/SendingPythonObjects-05/server.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pythonista/Socket Programming in Python/z_Percipio Notes/Introduction/Sources/SimpleClientServer/client.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pythonista/Socket Programming in Python/z_Percipio Notes/Introduction/Sources/SimpleClientServer/server.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pythonista/Socket Programming in Python/z_Percipio Notes/Introduction/Sources/SocketTimeout/client.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pythonista/Socket Programming in Python/z_Percipio Notes/Introduction/Sources/SocketTimeout/server.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pythonista/Socket Programming in Python/z_Percipio Notes/Introduction/Sources/SocketTimeoutException/client.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pythonista/Socket Programming in Python/z_Percipio Notes/Introduction/Sources/SocketTimeoutException/server.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pythonista/Socket Programming in Python/z_Percipio Notes/Introduction/Sources/SocketWith/client.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pythonista/Socket Programming in Python/z_Percipio Notes/Introduction/Sources/SocketWith/server.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pythonista/Socket Programming in Python/z_Percipio Notes/Introduction/Sources/commands.sh" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="2cSkYh85O4y3nETelm07AOt3msY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-5a2391486177-2887949eec09-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.13763.11" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4c1678c5-4b44-4060-abed-ee22c03ed438" name="Changes" comment="" />
+      <created>1708112416114</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1708112416114</updated>
+      <workItem from="1708112417453" duration="126000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

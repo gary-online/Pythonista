@@ -1,0 +1,43 @@
+Question: Which of the following functions do we need to write code for in a Python for the class to implement the Iterator design pattern?
+__len__()
+__next__()
+__iter__()
+
+Question: Which of the following are characteristics of the Observer pattern?
+A single high-level module can have multiple observers
+The high-level module notifies low-level modules of changes
+
+Question: Which of the following built-in functions in Python implements the Strategy pattern?
+sorted()
+
+Question: How would you implement undo using commands?
+Add each command to a stack and on undo pop from a stack and execute undo
+
+Question: Which of the following are advantages of using the Command design pattern?
+Encapsulate and abstract operations from invocations
+Each command follows the principle of Single Responsibility
+Commands can be used in implementing undo/redo operations
+
+Question: While implementing the Chain of Responsibility pattern in Python, which of the following are you likely to encounter in the code?
+Every handler will have some way of passing information on to the next handler in the sequence
+All handlers implement the same interface
+
+Question: The Observer pattern implements which principle of good design?
+The Hollywood principle
+
+Question: Which of the following statements are characteristics of the Strategy design pattern?
+Algorithms are interchangeable and achieve the same objective
+Family of algorithms using the same interface
+
+Question: Which of the following statements about the Chain of Responsibility pattern are true?
+Multiple handlers exist to handle requests
+The handlers are arranged in the form of a pipeline
+
+Question: Which of the following features are true of publishers and subscribers implemented using the observer pattern?
+Publishers publish messages to topics
+Publishers notify subscribers when they publish messages
+
+Question: What is the objective of the Iterator design pattern?
+Separate implementation of collection container from collection access
+
+

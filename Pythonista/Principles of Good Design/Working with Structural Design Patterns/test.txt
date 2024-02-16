@@ -1,0 +1,42 @@
+Question: What is the objective of the flyweight design pattern?
+Sharing resources among a large number of lightweight objects
+
+Question: Which of the following are use cases for the Proxy pattern?
+Checking whether client access is authenticated
+Validating parameters for access to the real subject
+
+Question: What should you keep in mind when you implement the Facade design pattern?
+The Façade should expose a simple interface for complex API calls
+The Façade should not become the only point of access to the system
+
+Question: Which of the following statements about the Adapter pattern are true?
+Can help newer clients work with legacy components
+Presents different views of the object in different contexts
+
+Question: Which of the following is true of the Adapter pattern?
+Uses a consistent interface across all components
+
+Question: If you don’t use the decorator pattern to add responsibility dynamically, what might you experience while writing code?
+Any new feature will involve major code changes
+New features added will need to be explicitly combined with all older features while writing code
+
+Question: Which of the following best describes the Proxy design pattern?
+A placeholder for the real subject to control access to that subject
+
+Question: Which of the following statement about the Decorator pattern is true?
+May involve many objects, each with a different responsibility
+
+Question: Which of the following is true in the Façade design pattern?
+A Façade can have APIs for multiple use cases
+APIs exposed by the Façade should be simple and easy to use
+
+Question: While implementing a decorator, which of the following is true?
+All decorators implement the same interface
+A decorator is instantiated with a reference to the object it decorates
+
+Question: Under what conditions might you choose to implement the Adapter design pattern?
+When you want to present a consistent interface to your clients whether they use new or old compoenents
+When you want to avoid rewriting your legacy components
+
+Question: The flyweight design pattern is used in the Python programming language to implement what data type?
+Strings

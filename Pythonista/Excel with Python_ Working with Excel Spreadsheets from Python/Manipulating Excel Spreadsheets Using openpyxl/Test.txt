@@ -1,0 +1,32 @@
+Given a variable named “workbook” containing an openpyxl workbook object, how can the value in cell A3 of the sheet named “Countries” be set to hold the value “France” ?
+workbook[“Countries”][“A3”].value = “France”
+
+Which of the following statements about sorting data in Excel is not accurate?
+Data can be sorted either row-wise or column-wise
+
+Your cursor is positioned in cell B4 and you hit the “Freeze Panes” button in Excel. How many rows and columns will be constantly displayed on screen even as you scroll?
+3 rows and 1 column
+
+How is a cell uniquely identified in Excel?
+By specifying its row and column
+
+What data structure in Python is most suitable for working with JSON data?
+Dictionary of nested dictionaries
+
+You would like to efficiently iterate over all cells in a 5x5 range, scanning horizontally, and without reading any cell metadata. How would you do this?
+Iter_rows with values_only = True
+
+The cell range A1:B3 is merged. Each cell in that range contained data before merging. What data will the new, merged cell contain?
+The data originally present in the top-left cell i.e. A1
+
+A new workbook is created using openpyxl. What operation must be performed before it can be opened using Microsoft Excel?
+The in-memory workbook must be written to disk using workbook.save
+
+You programmatically apply a filter using openpyxl, but when you save and open the workbook, the filter has not taken effect. Why?
+The filter data API is currently somewhat buggy, and you need to hit the "Reapply" button in Excel
+
+The cell range A1:B3 is merged. How can the single, merged call be accessed now?
+With the address A1 only
+
+How would you find the smallest range within a spreadsheet that actually contains data?
+Use the calculate_dimension() method of the worksheet object
